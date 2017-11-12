@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MenuInflaterContextInflaterDemo</string>
+    <string name="btn_text">context menu</string>
+</resources>
